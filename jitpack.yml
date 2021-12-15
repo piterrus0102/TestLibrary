@@ -2,5 +2,5 @@ jdk :
     -  openjdk11
 
 install : 
-    -  ./gradlew :CalcLibrary:build :libraryName:publishToMavenLocal 
+    -  ./gradlew :CalcLibrary:build :CalcLibrary:publishToMavenLocal 
     -  find . -name "*.aar"
