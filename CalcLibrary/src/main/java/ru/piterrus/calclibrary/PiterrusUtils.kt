@@ -1,4 +1,4 @@
-package ru.piterrus.testlibrary
+package ru.piterrus.calclibrary
 
 class PiterrusUtils {
     companion object {
